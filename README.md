@@ -20,21 +20,17 @@ I’m passionate about Artificial Intelligence, Machine Learning, and innovative
 | Programming        | Python · Java · C · JavaScript              |
 | AI / ML            | Machine Learning · Deep Learning · Data Analysis |
 | Tools & Platforms  | Git · VS Code · Google Colab · Jupyter Notebook |
-| Others             | Problem Solving · DSA · Project Management  |
 
 ---
 
-## 🔍 Projects & Repositories  
-Here are a few highlights:  
-- **AI-Enhanced Driver Wellness Monitoring** — ML-based system to detect driver fatigue and wellness
-- **Predictive Parking System** — Smart solution for real-time parking availability using AI
-- **Road Hazard Detection** — Computer vision project for identifying road anomalies
-- *(Add your project links here once uploaded)*
-
+## 🔍 Projects 
+ AI Chatbot (Python) - CLI-based assistant with basic NLP logic for user queries.
+ Responsive Website - Developed with HTML/CSS/Bootstrap; fully mobile responsive.
+ 
 ---
 
 ## 📫 Connect With Me  
-- 📧 Email: **niyati.jain2005@example.com**
+- 📧 Email: jainniyati2005@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/niyatijain2005](https://www.linkedin.com/in/niyatijain2005)
 - 🖤 GitHub: [github.com/niyatijain200511](https://github.com/niyatijain200511)
 
